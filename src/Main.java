@@ -10,5 +10,6 @@ public class Main {
         
         ArrayOrganizer org = new ArrayOrganizer();
         System.out.println("Result => " + org.concatAndSort(arrayList1, arrayList2, arrayList3));
+        System.out.println("Successfully reverted in Git");
     }
 }
